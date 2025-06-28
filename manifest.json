@@ -1,7 +1,8 @@
 {
     "name": "counter",
     "short_name": "counter",
-    "start_url": "/?home=true",
+    "scope": "/pwaTest/",
+    "start_url": "/pwaTest/",
     "background_color": "rgb(250,250,250)",
     "theme_color": "rgb(250,250,250)",
     "display": "standalone",
